@@ -5,3 +5,5 @@ SpringDemo is an independent project where Spring inversion of control, Spring d
 
 SpringAnnotationsDemo is also an independent project. 
 Here, Different types of Spring annotation and ways of configuring Spring container (Full XML, XML Component Scan, Java Config Class) have been used to practice.
+
+SpringIntelliJTest is an independent project. It includes building web apps by Spring MVC framework. 
